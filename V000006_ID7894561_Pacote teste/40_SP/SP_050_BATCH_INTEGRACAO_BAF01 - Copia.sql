@@ -1,5 +1,4 @@
-Set Ansi_Nulls On 
-Set Quoted_Identifier On
+
 go
 If Object_Id('SP_050_BATCH_INTEGRACAO_BAF01', 'P') Is Null
 	Exec ('Create Proc SP_050_BATCH_INTEGRACAO_BAF01 As Return 0;')
