@@ -1,0 +1,3 @@
+2020-03-30 11:50:44.727 -03:00 [WRN] Using an in-memory repository. Keys will not be persisted to storage.
+2020-03-30 11:50:44.757 -03:00 [WRN] Neither user profile nor HKLM registry available. Using an ephemeral key repository. Protected data will be unavailable when application exits.
+2020-03-30 11:50:44.838 -03:00 [WRN] No XML encryptor configured. Key "17b654c1-8038-48fb-802a-3ab36419b2af" may be persisted to storage in unencrypted form.
