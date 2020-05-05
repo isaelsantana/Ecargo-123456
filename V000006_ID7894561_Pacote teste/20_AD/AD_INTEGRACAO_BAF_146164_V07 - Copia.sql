@@ -1,8 +1,3 @@
-/************************************************************************/
-/************** Script de criação e modificação de colunas **************/
-/**************             18/03/2020 15:44:21            **************/
-/************************************************************************/
-
 If Object_Id('INTEGRACAO_BAF') Is Null
 	Create Table [INTEGRACAO_BAF] ([INTEGRACAO_BAF_ID] int Not Null Identity(1,1))
 Go
